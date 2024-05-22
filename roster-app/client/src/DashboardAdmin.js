@@ -69,7 +69,7 @@ const DashboardAdmin = () => {
         <div className='dashboard-page'>
             <nav className='dashboard-navbar'>
                 <Link to="/dashboard">
-                    <img src="./logo.png" alt="Logo" className="logo" />
+                    <img src="./logowhite.png" alt="Logo" className="logo" />
                 </Link>
                 <Link to="/dashboard" className='nav-item'>Home</Link>
                 <span className='nav-item'>Flight Details</span>
